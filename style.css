@@ -1,0 +1,29 @@
+nav{
+text-align: center;
+font-size: 24px;
+font-color: red;
+padding: 20px;
+
+.black-text{
+  font-size: 20px;
+  color: blue;
+}
+
+.white-line{
+  color: red;
+}
+
+.phone-number{
+  color: green;
+}
+
+.list1{
+  color: silver;
+  font-size: 24px;
+}
+
+.box{background-image: url(harvscape back.jpg);
+  padding 200 px 100px
+ margin 100px}
+ background-repeat: no-repeat
+ background-size: cover
